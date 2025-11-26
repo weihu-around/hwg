@@ -1,0 +1,1 @@
+import{a as n,c as a,e as o,i as r,o as s}from"./index-DfC-wKq9.js";const p=n({__name:"about",setup(u){function t(){r.push("/")}return(l,e)=>(s(),a("div",null,[e[0]||(e[0]=o("h1",null,"这是关于页！",-1)),o("button",{onClick:t},"前往")]))}});export{p as default};
